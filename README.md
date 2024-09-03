@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently studying at Universitas Muhammadiyah Semarang.<br>👯 I’m looking to collaborate on Mobile Developer, and Web Developer<br>🤝 I am looking for help with work or freelance co-operation<br>🌱 I’m currently learning Swift, and Kotlin<br>💬 Ask me about Anything about IT Developer<br>⚡ Fun fact I am a student with high spirit
+🔭 I am currently studying at Universitas Muhammadiyah Semarang.<br>👯 I’m looking to collaborate on Mobile Developer, and Web Developer<br>🤝 I am looking for help with work or freelance co-operation<br>🌱 I’m currently learning Swift, and Kotlin<br>💬 Ask me about Anything about IT Developer<br>⚡ Fun fact I am a student with high dedication
 
 
 ## 🌐 Socials:
